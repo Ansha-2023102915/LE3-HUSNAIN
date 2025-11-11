@@ -1,0 +1,10 @@
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\bin\Debug\HusnainBlogDB.dacpac
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\bin\Debug\HusnainBlogDB.dll
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\bin\Debug\HusnainBlogDB.pdb
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\HusnainBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\Model.xml
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\refactor.xml
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\postdeploy.sql
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\predeploy.sql
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\HusnainBlogDB.dll
+C:\Users\phant\source\repos\HusnainLE2\HusnainBlogDB\obj\Debug\HusnainBlogDB.pdb
